@@ -1,0 +1,47 @@
+body{
+	padding: 0;
+  	margin: 0;
+	background-image: url(imagens/fundo.png);
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.container {
+
+
+	width: 1080px;
+	margin: auto;
+	line-height: 2em;
+	background-color: #F2F2F2;
+	border: 1px solid #CCC;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	text-align: center;
+  }
+  
+  h1 {
+	font-size: 3em;
+	color: #333;
+  }
+  
+  p {
+	font-size: 1.2em;
+	font-weight: 500;
+	color: #666;
+  }
+
+.container-footer{
+	
+	
+	height: 70%;
+	width: 1080px;
+	
+  	margin: auto;
+	text-align: center;
+}
+.footer{	
+	
+	margin-top: 200px;
+	height: 150px;
+	color: #CCC;
+	background-color: #141414;
+}
