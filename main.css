@@ -1,7 +1,10 @@
 body{
 	padding: 0;
   	margin: 0;
-	background-image: url(imagens/fundo.png);
+	background-image: url(imagens/fundo.png) ;
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+	
 	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
 }
 .container {
